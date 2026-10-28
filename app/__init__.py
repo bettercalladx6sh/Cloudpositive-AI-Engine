@@ -1,0 +1,1 @@
+"""AWS Cost & Infrastructure Optimizer application package."""
